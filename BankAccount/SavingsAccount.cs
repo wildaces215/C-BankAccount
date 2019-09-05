@@ -3,6 +3,8 @@ namespace BankAccount
 {
     public class SavingsAccount: Account
     {
+        public new float accountMoney;
+
         public SavingsAccount(float money)
         {
             accountMoney = money;
@@ -12,7 +14,7 @@ namespace BankAccount
         {
             accountMoney *= percentage;
         }
-        private float GetSavings()
+        public float GetSavings()
         {
             return accountMoney;
         }
@@ -31,6 +33,7 @@ namespace BankAccount
             {
 
             }
+            return 0f;
         }
         
     }

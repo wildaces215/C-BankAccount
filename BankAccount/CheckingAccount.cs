@@ -10,14 +10,11 @@ namespace BankAccount
             accountMoney = money;
         }
 
-        private float GetCheckingAmount()
+        public float GetCheckingAmount()
         {
             return accountMoney;
         }
-        private void CheckingAdd(float toAdd)
-        {
-            accountMoney += toAdd;
-        }
+        
 
         //Transfer Money from checking to savings.
         private float TransferChecking(SavingsAccount saving, CheckingAccount checking, float amount)

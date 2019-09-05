@@ -1,7 +1,6 @@
 /Users/craigalbertson/Projects/BankAccount/BankAccount/bin/Debug/BankAccount.exe
 /Users/craigalbertson/Projects/BankAccount/BankAccount/bin/Debug/BankAccount.pdb
 /Users/craigalbertson/Projects/BankAccount/BankAccount/bin/Debug/nunit.framework.dll
-/Users/craigalbertson/Projects/BankAccount/BankAccount/bin/Debug/nunit.framework.pdb
 /Users/craigalbertson/Projects/BankAccount/BankAccount/bin/Debug/nunit.framework.xml
 /Users/craigalbertson/Projects/BankAccount/BankAccount/obj/x86/Debug/BankAccount.csprojAssemblyReference.cache
 /Users/craigalbertson/Projects/BankAccount/BankAccount/obj/x86/Debug/BankAccount.csproj.CoreCompileInputs.cache
