@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{A5695FDC-8ECA-42EA-9B6C-5A9EEF404CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5695FDC-8ECA-42EA-9B6C-5A9EEF404CE0}.Debug|x86.ActiveCfg = Debug|x86
+		{A5695FDC-8ECA-42EA-9B6C-5A9EEF404CE0}.Debug|x86.Build.0 = Debug|x86
+		{A5695FDC-8ECA-42EA-9B6C-5A9EEF404CE0}.Release|x86.ActiveCfg = Release|x86
+		{A5695FDC-8ECA-42EA-9B6C-5A9EEF404CE0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
